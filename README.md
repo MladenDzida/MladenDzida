@@ -2,7 +2,7 @@
 
 * 🎓 School: Master of Science in Computing (Data Science).
 
-* 💻 Work: Software Engineer @ Atos. 
+* 💻 Work: Data Scientist @ PlayNirvana. 
 
 ### 🖥️ Open-Source Projects
 <table>
