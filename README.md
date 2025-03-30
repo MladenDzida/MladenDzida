@@ -2,9 +2,24 @@
 
 * 🎓 School: Master of Science in Computing (Data Science).
 
-* 💻 Work: Data Scientist @ PlayNirvana. 
+* 💻 Work: Data Scientist @ PlayNirvana.
 
-### 🖥️ Open-Source Projects
+### 🖥️ DevOps Coding Projects
+<table>
+<tr><td>
+
+|Title |
+|--|
+[server-performance-stats](https://github.com/MladenDzida/server-performance-stats) |
+[log-archive-tool](https://github.com/MladenDzida/log-archive-tool) |
+[nginx-log-analyser](https://github.com/MladenDzida/nginx-log-analyser) |
+[gh-deployment-workflow](https://github.com/MladenDzida/gh-deployment-workflow) |
+[ssh-remote-server-setup](https://github.com/MladenDzida/ssh-remote-server-setup) |
+[static-site-server](https://github.com/MladenDzida/static-site-server) |
+
+</table>
+
+### 🖥️ University Coding Projects
 <table>
 <tr><td>
 
